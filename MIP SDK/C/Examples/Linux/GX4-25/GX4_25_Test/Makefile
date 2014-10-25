@@ -70,7 +70,7 @@ PROJ_CFLAGS = -w
 CFLAGS = -c -w
 
 #To DISABLE default USB communication, comment out the following line
-CFLAGS += -DUSE_USB_CONNECTION
+#CFLAGS += -DUSE_USB_CONNECTION
 
 #linking flags for linking compiler
 LFLAGS = -lrt
