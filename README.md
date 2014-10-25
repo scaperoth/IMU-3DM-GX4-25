@@ -10,7 +10,7 @@ instead of ttyACM.
 Then from the Linux Examples folder, you can run the example by entering
 
 ```
-
+./GX4_25_TEST 0 115200
 ```
 
 then the test will begin to output depending on which port your device is connected to.
